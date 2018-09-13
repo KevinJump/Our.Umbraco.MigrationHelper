@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>Our.Umbraco.MigrationHelper</id>
+    <version>1.0.0-Beta1</version>
+    <title>Umbraco Migration Helper</title>
+    <authors>Kevin Jump</authors>
+    <owners></owners>
+    <description>Easy migrations in umbraco</description>
+    <summary>Migration Helper for umbraco</summary>
+    <releaseNotes>
+      1.0.0 - Inital version IUmbracoApp methods.
+    </releaseNotes>
+    <tags>umbraco, umbraco-cms</tags>
+  </metadata>
+  <files>
+    <file src="bin\release\Our.Umbraco.MigrationHelper.dll" target="lib\net46" />
+    <file src="readme.txt" target="" />
+  </files>
+</package>
